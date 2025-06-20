@@ -5,7 +5,6 @@ package org.taller.optional;
  * Optional es la invitación formal: te dice explícitamente “puede que venga alguien, puede que no, pero aquí está la lista”.
  * Esa transparencia—saber desde el tipo mismo si habrá valor—es puro espíritu funcional:
  */
-package org.taller.optional;
 
 import java.util.Optional;
 import java.util.List;
